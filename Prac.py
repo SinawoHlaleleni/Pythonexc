@@ -117,7 +117,7 @@ print(" exc 11 GETTING DATA FROM PROGRAM\n")
 #date_of_birth = input("Birth year")
 #age = 2019 - int(date_of_birth)
 #print(age)
-
+"""
 print("birth Year: ", end='')
 year_of_birth = input()
 age = 2019 - int(year_of_birth)
@@ -137,5 +137,5 @@ print(" \n exc 12 PROMPTING POEPLE\n")
 age = input("How old are you?  ")
 height = input("How tall are you? ")
 print("So, you are {} old and {} tall".format(age, height))
-
+"""
 
